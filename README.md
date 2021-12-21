@@ -1,4 +1,4 @@
-# RPZ Fluent Bit plugin
+# Rapidomize Fluent Bit plugin
 
 Fluent Bit plugin for Rapidomize ICS (Intelligent Connected Services) platform.
 The **rpz** output plugin allows to flush your records into a Rapidomize Application
@@ -98,4 +98,3 @@ Contributions are highly welcome. If you're interested in contributing leave a n
 
 ## License
 Apache 2.0
-
